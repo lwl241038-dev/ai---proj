@@ -4,7 +4,7 @@ import time
 from datetime import datetime, timedelta
 
 st.set_page_config(
-    page_title="Mental Maths Quiz", 
+    page_title="Alright Maths Quiz", 
     page_icon="🧮", 
     layout="wide",
     initial_sidebar_state="expanded"
